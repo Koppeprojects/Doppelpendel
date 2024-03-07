@@ -1,0 +1,1 @@
+Klicken Sie auf das nachfolgende Icon, um die Programmierumgebung zu starten. Das starten kann einige Minuten dauern. Wenn sich nach 3 Minuten nichts ändert, dann kann versucht laden die Seite neu zu laden
